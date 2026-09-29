@@ -1,0 +1,10 @@
+{
+  "name": "GlitchGrip",
+  "description": "A futuristic Japanese-inspired AI hand-tracking visual playground where users control generative graphics and glitch effects using real-time hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
